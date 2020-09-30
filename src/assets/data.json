@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "Project": "Project1",
+        "Name": "Superman",
+        "Email": "Yoda@gmail.com",
+        "FunctionalProfile":"UI Develoiper",
+        "Contact" : "980000009",
+        "Location":"Hyderbad"
+      },
+      {
+        "Project": "Project2",
+        "Name": "Superman",
+        "Email": "Yoda@gmail.com",
+        "FunctionalProfile":"UI Develoiper",
+        "Contact" : "980000009",
+        "Location":"Hyderbad"
+      },
+      {
+        "Project": "Project3",
+        "Name": "Superman",
+        "Email": "Yoda@gmail.com",
+        "FunctionalProfile":"UI Develoiper",
+        "Contact" : "980000009",
+        "Location":"Hyderbad"
+      }
+     
+     
+    ]
+  }
